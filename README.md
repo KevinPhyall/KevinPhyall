@@ -12,6 +12,8 @@
  
  - <b>Azure VM setup
     - [Azure: Virtual Machine Installation](https://github.com/KevinPhyall/Azure-VM-Installation/tree/main)
+  
+- <b>Virtual Private Network (VPN) setup
 
 <h2>🤳Connect with me:</h2>
 
